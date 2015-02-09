@@ -13,7 +13,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/vmihailenco/msgpack"
+	"github.com/channelmeter/msgpack"
 
 	msgpack2 "github.com/ugorji/go-msgpack"
 	"github.com/ugorji/go/codec"
