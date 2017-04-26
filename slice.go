@@ -5,7 +5,7 @@ import (
 	"io"
 	"reflect"
 
-	"github.com/vmihailenco/bufio"
+	"github.com/channelmeter/msgpack/bufio"
 )
 
 func (e *Encoder) encodeBytesLen(l int) error {

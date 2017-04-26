@@ -8,7 +8,7 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/vmihailenco/bufio"
+	"github.com/channelmeter/msgpack/bufio"
 )
 
 type bufReader interface {
